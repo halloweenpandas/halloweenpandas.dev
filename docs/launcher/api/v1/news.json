@@ -1,0 +1,125 @@
+{
+    "articles": [
+        {
+            "md": "0010-cl2-revamp",
+            "type": "announcement",
+            "title": "Semi-Perfect Cell Unleashed Into Revamp XV2!",
+            "thumb": "cl2-revamp.jpg",
+            "authors": [
+                "revampteamxv2"
+            ],
+            "release": "2023-06-23T00:00:00.000Z",
+            "category": "revamp"
+        },
+        {
+            "md": "0009-dev-blog-sbca",
+            "type": "dev-blog",
+            "title": "Special Beam Cannon (Awakening)",
+            "thumb": "SBCA.jpg",
+            "authors": [
+                "chaosbeat"
+            ],
+            "release": "2023-06-01T00:00:00.000Z",
+            "category": "revamp"
+        },
+        {
+            "md": "0008-dynamic-hair",
+            "type": "announcement",
+            "title": "Revamp CaC Overhaul - Dynamically Transforming Hair",
+            "thumb": "dyn-hair.jpg",
+            "authors": [
+                "revampteamxv2"
+            ],
+            "release": "2023-05-31T00:00:00.000Z",
+            "category": "revamp"
+        },
+        {
+            "md": "0007-patch-notes-4010",
+            "type": "update",
+            "title": "Revamp XV2 Patch Notes (v4.0.10) (Compatibility Update)",
+            "thumb": "patch-notes-4010.png",
+            "authors": [
+                "revampteamxv2"
+            ],
+            "release": "2023-05-29T00:00:00.000Z",
+            "category": "revamp-updates"
+        },
+        {
+            "md": "0006-patch-notes-409",
+            "type": "update",
+            "title": "Revamp XV2 Patch Notes (v4.0.9) (Bug Fixes)",
+            "thumb": "patch-notes-409.png",
+            "authors": [
+                "revampteamxv2"
+            ],
+            "release": "2022-11-19T00:00:00.000Z",
+            "category": "revamp-updates"
+        },
+        {
+            "md": "0005-gamma-1-2-conton",
+            "type": "announcement",
+            "title": "Gamma 1 & Gamma 2 in Conton City",
+            "thumb": "gamma1-2-conton.png",
+            "authors": [
+                "revampteamxv2"
+            ],
+            "release": "2022-11-19T00:00:00.000Z",
+            "category": "revamp"
+        },
+        {
+            "md": "0004-zangya",
+            "type": "announcement",
+            "title": "Zangya Coming to Revamp XV2!",
+            "thumb": "zangya_render_final_edited.png",
+            "authors": [
+                "revampteamxv2"
+            ],
+            "release": "2022-10-18T00:00:00.000Z",
+            "category": "revamp"
+        },
+        {
+            "md": "0003-patch-notes-407",
+            "type": "update",
+            "title": "Revamp XV2 Patch Notes (v4.0.7) (Bug Fixes)",
+            "thumb": "patch-notes-407.jpg",
+            "authors": [
+                "revampteamxv2"
+            ],
+            "release": "2022-08-09T00:00:00.000Z",
+            "category": "revamp-updates"
+        },
+        {
+            "md": "0002-patch-notes-406",
+            "type": "update",
+            "title": "Revamp XV2 Patch Notes (v4.0.6) (Bug Fixes)",
+            "thumb": "patch-notes-406.png",
+            "authors": [
+                "revampteamxv2"
+            ],
+            "release": "2022-08-08T00:00:00.000Z",
+            "category": "revamp-updates"
+        },
+        {
+            "md": "0001-patch-notes-405",
+            "type": "update",
+            "title": "Revamp XV2 Patch Notes (v4.0.5) (Compatibility Update)",
+            "thumb": "logo.png",
+            "authors": [
+                "revampteamxv2"
+            ],
+            "release": "2022-06-23T00:00:00.000Z",
+            "category": "revamp-updates"
+        },
+        {
+            "md": "0000-patch-notes-402",
+            "type": "update",
+            "title": "Revamp XV2 Patch Notes (v4.0.2) (April Fools)",
+            "thumb": "logo.png",
+            "authors": [
+                "revampteamxv2"
+            ],
+            "release": "2022-05-01T00:00:00.000Z",
+            "category": "revamp-updates"
+        }
+    ]
+}

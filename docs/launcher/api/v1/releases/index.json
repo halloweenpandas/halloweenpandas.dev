@@ -1,0 +1,25 @@
+{
+    "url": "https://ba9dcd53-1f3f-4f05-8f7a-0bcca8c496c2.usrfiles.com/archives/ba9dcd_0a07960c3d2f4a01a49d17ae3317422b.zip",
+    "website_url": "https://www.revampxv2.com",
+    "name": "Revamp Xenoverse 2",
+    "body": "0000-placeholder",
+    "version": "4.0.10",
+    "channel": "release",
+    "ptb": false,
+    "prerelease": false,
+    "created_at": "2023-05-29T00:00:00Z",
+    "updated_at": "2023-05-29T00:00:00Z",
+    "assets": [
+      {
+        "url": "https://ba9dcd53-1f3f-4f05-8f7a-0bcca8c496c2.usrfiles.com/archives/ba9dcd_0a07960c3d2f4a01a49d17ae3317422b.zip",
+        "id": 0,
+        "name": "Revamp Xenoverse 2 - 4.0.10 - Compatibility Update.zip",
+        "label": null,
+        "content_type": "application/x-zip-compressed",
+        "state": "uploaded",
+        "size": 1047527424,
+        "created_at": "2023-05-29T00:00:00Z",
+        "updated_at": "2023-05-29T00:00:00Z"
+      }
+    ]
+  }

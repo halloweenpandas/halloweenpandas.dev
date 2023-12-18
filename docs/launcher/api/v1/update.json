@@ -1,0 +1,11 @@
+{
+    "version": "0.0.0",
+    "notes": "Initial release",
+    "pub_date": "2023-08-24T18:30:37.429Z",
+    "platforms": {
+      "windows-x86_64": {
+        "signature": "",
+        "url": "https://www.revampxv2.com"
+      }
+    }
+  }

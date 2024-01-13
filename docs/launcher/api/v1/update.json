@@ -1,6 +1,6 @@
 {
-    "version": "0.0.0",
-    "notes": "Initial release",
+    "version": "0.0.1",
+    "notes": "Test installer update",
     "pub_date": "2023-08-24T18:30:37.429Z",
     "platforms": {
       "windows-x86_64": {
